@@ -33,11 +33,11 @@ Step 1. Search for the keyword `key pair` in the search box of the AWS console
 
 Step 2. While in the `Key Pair` section click on the orange button `Create Key Pair`
 
-![Step 1](https://github.com/dlavric/tf-aws-cluster/blob/main/pictures/Screenshot2.png)
+![Step 2](https://github.com/dlavric/tf-aws-cluster/blob/main/pictures/Screenshot2.png)
 
 Step 3. Fill in the name of your key pair and choose the options that are shown in the screenshot and create the `.pem` file
 
-![Step 1](https://github.com/dlavric/tf-aws-cluster/blob/main/pictures/Screenshot3.png)
+![Step 3](https://github.com/dlavric/tf-aws-cluster/blob/main/pictures/Screenshot3.png)
 
 - Connect to the VM
 ```shell
